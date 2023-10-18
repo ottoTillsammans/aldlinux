@@ -1,2 +1,2 @@
 # aldlinux
-My custom distro named ALD Linux (another Linux distributive)
+Custom distributive ALD Linux (Another one Linux Distro) / (Alderson)
