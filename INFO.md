@@ -22,4 +22,4 @@ python       3.4\
 sed          4.1.5\
 tar          1.22\
 texinfo      4.7\
-xz           5.0.0\
+xz           5.0.0
